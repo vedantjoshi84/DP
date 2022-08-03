@@ -1,3 +1,5 @@
+// Problem statement : https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
